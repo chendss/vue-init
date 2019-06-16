@@ -1,29 +1,15 @@
-# vue-init
+# vue 教程*vue2.x*
 
-## Project setup
-```
-yarn install
-```
+## 基本语法
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+## 高阶语法
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## 原理解析
 
-### Run your tests
-```
-yarn run test
-```
+## 其他生态教程
 
-### Lints and fixes files
-```
-yarn run lint
-```
+### vuex
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### axios
+
+### vue-route
